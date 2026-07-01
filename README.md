@@ -23,26 +23,26 @@
 
 ### 🚀 Featured Projects
 
-#### 🎬 [ViewMax](#) — Cinema Booking Platform
+#### 🎬 [ViewMax](https://github.com/Palvash-kumar/ViewMax) — Cinema Booking Platform
 `Node.js` `NestJS` `TypeScript` `MongoDB` `Redis` `Docker` `Next.js` `BullMQ` `Stripe`
 - Scalable backend for cinema bookings, seat scoring, ticketing, and analytics workflows
 - RESTful APIs documented via Swagger/OpenAPI, powering seat availability, Stripe payments, and role-based access across four user tiers
 - Race-free concurrency using atomic Redis distributed locks; secured with Argon2 hashing, HMAC-SHA256 QR signing, Helmet headers, and tiered rate limiting
 - Full stack containerized with Docker and deployed via GitHub Actions CI/CD
 
-#### 🌾 [AgroChain](#) — Agricultural Supply-Chain Platform
+#### 🌾 [AgroChain](https://github.com/AGROCHAIN08/Agrochain_React) — Agricultural Supply-Chain Platform
 `Node.js` `Express.js` `React` `MongoDB` `JWT` `REST API` `Swagger`
 - Server-side logic and REST APIs connecting farmers, dealers, and retailers through React dashboards
 - JWT-based authentication with RBAC authorization for secure, role-specific access
 - MongoDB data models for order tracking, audit workflows, and multi-role business logic
 
-#### 📅 [Calendly Clone](#) — Scheduling Platform
+#### 📅 [Calendly Clone](https://github.com/Palvash-kumar/Calendly_Clone) — Scheduling Platform
 `Node.js` `Express.js` `PostgreSQL` `Prisma` `Docker` `Next.js`
 - Scheduling engine with Google OAuth 2.0 and JWT session management
 - OWASP-compliant security practices integrated into a Next.js frontend
 - Timezone-aware booking workflows built on PostgreSQL + Prisma ORM, containerized with Docker
 
-#### ✍️ [Dual Language Spell Checker](#)
+#### ✍️ [Dual Language Spell Checker](https://github.com/Palvash-kumar/Spell-Checker)
 `Java` `NLP` `Dynamic Programming`
 - Probabilistic NLP correction engine for English and Telugu
 - Bayesian frequency-ranking algorithm with memory-efficient corpus pipelines
