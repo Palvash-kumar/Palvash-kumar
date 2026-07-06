@@ -87,16 +87,25 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palvash-kumar&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=palvash-kumar&theme=default" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palvash-kumar&theme=dark" alt="Palvash Kumar's github stats" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palvash-kumar&layout=compact&theme=default&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Palvash-kumar&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palvash-kumar&layout=compact&theme=dark)
+
+
+<br/>
+
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
 
 ---
 
