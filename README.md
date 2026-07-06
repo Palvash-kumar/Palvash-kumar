@@ -95,8 +95,8 @@
 </p>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Palvash-kumar&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palvash-kumar&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats-YOURNAME.vercel.app/api?username=Palvash-kumar&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-YOURNAME.vercel.app/api/top-langs/?username=Palvash-kumar&layout=compact&theme=dark)
 
 
 <br/>
@@ -109,11 +109,9 @@
 
 ---
 
-### 🏆 Achievements & Activities
+### 💭 Random Dev Quote
 
-- 🚜 Built an AI-powered agriculture advisory platform with a Node.js backend at **Smart India Hackathon** (Internal Round)
-- 🤝 Contributed to open-source projects through pull requests, code reviews, and collaborative backend workflows
-- 📈 Actively practicing DSA on LeetCode and GeeksforGeeks
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
