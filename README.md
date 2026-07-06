@@ -89,20 +89,16 @@
 
 # 📊 GitHub Stats:
 
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palvash-kumar&theme=dark" alt="Palvash Kumar's github stats" /></a>
 </p>
 
-
-![Your GitHub stats](https://github-readme-stats-YOURNAME.vercel.app/api?username=Palvash-kumar&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-YOURNAME.vercel.app/api/top-langs/?username=Palvash-kumar&layout=compact&theme=dark)
-
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=Palvash-kumar&show_icons=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Palvash-kumar&layout=compact&theme=dark)
 
 <br/>
 
-
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <br/>
@@ -119,5 +115,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/palvash-kumar-avasu">LinkedIn</a> •
-  <a href="mailto:palvash2005@gmail.com">Email</a> 
+  <a href="mailto:palvash2005@gmail.com">Email</a>
 </p>
