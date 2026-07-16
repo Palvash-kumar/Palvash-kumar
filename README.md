@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering @ **Indian Institute of Information Technology, Sri City, Tirupati** (2023 – Present)
+- 🎓 B.Tech in Computer Science and Engineering @ **Indian Institute of Information Technology, Sri City, Chittoor** (2023 – Present)
 - 🛠️ I build scalable, modular back-end architectures using **Node.js**, **NestJS**, and **Express.js**
 - 🔌 I design and document **RESTful APIs** and integrate them with **React.js / Next.js** front-ends
 - 🗄️ Comfortable across **SQL and NoSQL** databases, **Redis-backed distributed systems**, and containerization with **Docker**
